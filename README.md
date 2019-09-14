@@ -1,2 +1,2 @@
 # Stock-Management-System
-Stock management system using django
+Stock management system using django 
